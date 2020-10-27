@@ -1,5 +1,7 @@
 Hi there 👋
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiveshTheReal&margin-w=15)]
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiveshTheReal&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshTheReal&theme=dark&layout=compact)
