@@ -8,6 +8,8 @@
 ### Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshTheReal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/DiveshTheReal/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiveshTheReal)](https://github.com/DiveshTheReal/github-readme-streak-stats)
 ### Bye
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DiveshTheReal.DiveshTheReal)![githubgif](https://camo.githubusercontent.com/fae87334bdd5b4519e78c3da6c06af2ad72de7d0/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3634383733383733333238353434313630392f3737323335303432323734333930383336322f6f63746f6361742d616e696d652e676966)
  
